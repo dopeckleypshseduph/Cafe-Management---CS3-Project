@@ -1,8 +1,12 @@
 # Cafe-Management---CS3-Project
 - by Danum Peckley, Joaquin Iñigo Avendaño, Lance Angelo Del Rosario
+
 Project Title: Cafe Management
+
 Section: Cesium
+
 Group Members: Joaquin Iñigo Avendaño, Danum Peckley
+
 Date (Proposal Date)	: 12 November, 2026
 
 Project Description:
@@ -26,9 +30,12 @@ Describe the long term outcomes of your project followed by a couple of objectiv
 
 Objective 1:
 Set up a repository in GitHub and share it with the group	
+
 Objective 2:
 Set up all of the classes and their interactions with each other
+
 Objective 3:
 Set up the code that uses and executes the classes
+
 Objective 4:
 Debug and test
